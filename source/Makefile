@@ -43,7 +43,7 @@ SUBSYSTEM =	SOLARIS
 # Locations
 DIR =		/home/dick
 BINDIR =	$(DIR)/sim
-MAN1DIR =	$(DIR)/test/sim/sim_3_0_2 
+MAN1DIR =	$(DIR)/test/sim/source
 
 # Commands
 COPY =		cp -p
